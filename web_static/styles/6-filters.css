@@ -61,6 +61,7 @@ section.filters > button:hover {
 .popover, .popover ul {
     list-style-type: none;
 }
+
 .locations:hover > .popover {
     display: block;
 }
@@ -78,9 +79,11 @@ section.filters > button:hover {
     margin-bottom: 30px;
     margin-left: 30px;
 }
+
 .locations > .popover > li > ul {
     padding-left: 20px;
 }
+
 .locations > .popover > li > ul > li {
     margin-bottom: 10px;
 }
