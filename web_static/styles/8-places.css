@@ -43,7 +43,8 @@
     display: flex;
     margin-left: auto;
     right:20px;
-    top: 39px;
+    top: 19px;
+	padding: 10px;
 }
 
 .places article .information {
